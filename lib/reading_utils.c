@@ -3,10 +3,10 @@
 /*                                                     oo  #######  oo        */
 /*   reading_utils.c                                   o o#########o o        */
 /*                                                        ##  #  ##           */
-/*   By: SamihOuague <souaguen96@gmail.com>                #######            */
+/*   By: SamihOuague <souaguen96@gmail.com>                ### ###            */
 /*                                                         o#####o            */
 /*   Created: 2023/08/26 19:07:42 by  SamihOuague       o o # # # o o         */
-/*   Updated: 2023/08/27 02:45:59 by anonymous          oo         oo         */
+/*   Updated: 2023/08/27 19:23:19 by souaguen           oo         oo         */
 /*                                                                            */
 /* ************************************************************************** */
 
