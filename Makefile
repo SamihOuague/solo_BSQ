@@ -1,12 +1,13 @@
 CC=gcc
 CFLAGS=-Wall -Werror -Wextra
 EXEC=bsq
-OBJECTS=main.o lib/output_utils.o lib/reading_utils.o lib/extract_map.o lib/header.h
+OBJECTS=main.o lib/output_utils.o lib/reading_utils.o lib/extract_map.o
+HEADER=lib/header.h
 
 all: $(EXEC)
 
 bsq: $(OBJECTS)
-	$(CC) -o $(EXEC) $(OBJECTS)
+	$(CC) -o $(EXEC) $(OBJECTS) $(HEADER)
 main.o:	main.c
 	$(CC) -o main.o -c main.c $(CFLAGS)
 reading_utils.o: lib/reading_utils.c
