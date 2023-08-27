@@ -6,10 +6,9 @@
 /*   By: SamihOuague <souaguen96@gmail.com>                #######            */
 /*                                                         o#####o            */
 /*   Created: 2023/08/27 02:53:00 by  SamihOuague       o o # # # o o         */
-/*   Updated: 2023/08/27 03:19:51 by anonymous          oo         oo         */
+/*   Updated: 2023/08/27 03:27:13 by anonymous          oo         oo         */
 /*                                                                            */
 /* ************************************************************************** */
-
 #include "lib/header.h"
 
 int	main(int argc, char **argv)
